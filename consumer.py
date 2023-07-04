@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# tutorial from confluent kafka cloud.
 from argparse import ArgumentParser, FileType
 from configparser import ConfigParser
 from confluent_kafka import Consumer
